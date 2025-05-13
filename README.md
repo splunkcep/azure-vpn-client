@@ -39,7 +39,7 @@ Before you begin, make sure:
 
 1. Launch the **Azure VPN Client**.
 2. Click the **+** button to add a new connection.
-3. Select **Import** and choose the `.xml` file from the extracted profile.
+3. Select **Import** and choose the `.xml` file you have downloaded.
 4. The client will auto-fill the connection details.
 
 ---
@@ -48,16 +48,10 @@ Before you begin, make sure:
 
 1. In the Azure VPN Client, select the imported profile.
 2. Click **Connect**.
-3. Authenticate using the configured method (e.g., Entra ID, certificate).
-4. Once connected, you’ll have secure access to your Azure virtual network.
+3. Ask the trainer for an EntraID.
+4. Authenticate using the configured method.
+5. Once connected, you’ll have secure access to the CEP Training environment.
 
 ---
 
-## 📄 PDF Version
-
-You can also download this guide as a PDF: [Azure_VPN_Client_Setup_Guide.pdf](https://us-api.asm.skype.com/v1/objects/0-wus-d3-f033000fe6f13961fc00db534c857646/content/original/Azure_VPN_Client_Setup_Guide.pdf)
-
----
-
-> 💡 Need help with macOS or Linux setup? Let me know!
 
