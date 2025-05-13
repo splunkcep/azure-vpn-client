@@ -48,7 +48,7 @@ Before you begin, make sure:
 
 1. In the Azure VPN Client, select the imported profile.
 2. Click **Connect**.
-3. Ask the trainer for an EntraID.
+3. Ask your instructor for an EntraID.
 4. Authenticate using the configured method.
 5. Once connected, you’ll have secure access to the CEP Training environment.
 
