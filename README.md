@@ -18,7 +18,6 @@ Before you begin, make sure:
 
 ### Option 1: Microsoft Store
 
-1. Download the xml file here: https://github.com/renatomag/azure-vpn-client/blob/main/client-download/azurevpnconfig%205.xml
 1. Open the **Microsoft Store**.
 2. Search for **"Azure VPN Client"**.
 3. Click **Install**.
@@ -32,9 +31,7 @@ Before you begin, make sure:
 
 ## 📦 Step 3: Get the VPN Client Profile
 
-1. In the **Azure Portal**, navigate to your **VPN Gateway**.
-2. Under **Point-to-site configuration**, click **Download VPN client**.
-3. Extract the downloaded `.zip` file to access the configuration file (e.g., `azurevpnconfig.xml` or `azurevpnconfig_aad.xml`).
+1. Download the xml file here: https://github.com/renatomag/azure-vpn-client/blob/main/client-download/azurevpnconfig%205.xml
 
 ---
 
