@@ -31,7 +31,7 @@ Before you begin, make sure:
 
 ## 📦 Step 3: Get the VPN Client Profile
 
-1. Download the xml file here: https://github.com/renatomag/azure-vpn-client/blob/main/client-download/azurevpnconfig%205.xml
+1. Download the xml file here: https://github.com/splunkcep/azure-vpn-client/blob/main/client-download/azurevpnconfig%205.xml
 
 ---
 
